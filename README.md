@@ -35,12 +35,32 @@ When user clicks the 'Generate' button, a series of prompts and confirm alerts a
      style="width: 45%; padding-bottom: 20px"/>
 
 <br>
+<br>
 
 If a prompt is confirmed, their **var** value becomes true and triggers **if statements** within the 'main' function.
 
+<br>
 <br>
 
 <img src="Assets/Screen Shot 2020-09-19 at 10.21.00 PM.png"
      alt="firstIf"
      align="center"
-     style="width: 50%; padding-bottom: 20px"/>
+     style="width: 75%; padding-bottom: 20px"/>
+
+<br>
+
+These **if statements** push items into the empty array of 'characterTypes.'
+
+<br>
+
+### CharacterType Randomizer
+
+<img src="Assets/Screen Shot 2020-09-19 at 11.02.19 PM.png"
+     alt="firstIf"
+     align="center"
+     style="width: 75%; padding-bottom: 20px"/>
+
+
+
+
+
