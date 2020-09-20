@@ -68,22 +68,45 @@ Inside a **for loop** that runs however many times the user inputs to be their p
 
 Depending on which item in the array is chosen, an **if statement** is triggered that randomly generates a number between a given set of values, then converts them to letters based on its Unicode equivalent. Then the chosen letter is added to the **placeholder** HTML property in the 'textarea' element.
 
+<br>
+
 <img src="Assets/Screen Shot 2020-09-19 at 11.13.43 PM.png"
      alt="firstIf"
      align="left"
-     style="width: 45%; padding-bottom: 0px"/>
+     style="width: 55%; padding-bottom: 0px"/>
 <img src="Assets/iso-8859-5-php-orange.png"
      alt="firstIf"
      align="right"
-     style="width: 45%; padding-bottom: 0px"/>
-<img src="Assets/Screen Shot 2020-09-19 at 11.13.43 PM.png"
+     style="width: 45%; padding-bottom: 20px"/>
+<img src="Assets/Screen Shot 2020-09-19 at 11.37.46 PM.png"
      alt="firstIf"
      align="left"
-     style="width: 45%; padding-bottom: 0px"/>
-<img src="Assets/Screen Shot 2020-09-19 at 11.13.43 PM.png"
+     style="width: 55%; padding-bottom: 0px"/>
+<img src="Assets/Screen Shot 2020-09-19 at 11.38.23 PM.png"
      alt="firstIf"
      align="left"
-     style="width: 45%; padding-bottom: 0px"/>
+     style="width: 55%; padding-bottom: 0px"/>
+
+
+.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Author
+<br>
+Aaron Diggdon
+
+<br>
+<br>
+
+## Licence
+<br>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](Licence.txt)
+
 
 
 
