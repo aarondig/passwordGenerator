@@ -38,6 +38,7 @@ function writePassword() {
       characterTypes.push("special");
       }
       document.getElementById("password").placeholder = "";
+      
       for (var i = 0; i < chrLength; i++) {
         
         var chrChoice = characterTypes[Math.floor(Math.random() * characterTypes.length)];
