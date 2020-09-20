@@ -53,12 +53,37 @@ These **if statements** push items into the empty array of 'characterTypes.'
 
 <br>
 
-### CharacterType Randomizer
+### ChrChoice Randomizer
 
-<img src="Assets/Screen Shot 2020-09-19 at 11.02.19 PM.png"
+Inside a **for loop** that runs however many times the user inputs to be their password length, the variable of 'chrChoice' randomly chooses between the items in the array.
+<br>
+
+<img src="Assets/Screen Shot 2020-09-19 at 11.12.47 PM.png"
      alt="firstIf"
      align="center"
      style="width: 75%; padding-bottom: 20px"/>
+<br>
+
+### Unicode Randomizer
+
+Depending on which item in the array is chosen, an **if statement** is triggered that randomly generates a number between a given set of values, then converts them to letters based on its Unicode equivalent. Then the chosen letter is added to the **placeholder** HTML property in the 'textarea' element.
+
+<img src="Assets/Screen Shot 2020-09-19 at 11.13.43 PM.png"
+     alt="firstIf"
+     align="left"
+     style="width: 45%; padding-bottom: 0px"/>
+<img src="Assets/iso-8859-5-php-orange.png"
+     alt="firstIf"
+     align="right"
+     style="width: 45%; padding-bottom: 0px"/>
+<img src="Assets/Screen Shot 2020-09-19 at 11.13.43 PM.png"
+     alt="firstIf"
+     align="left"
+     style="width: 45%; padding-bottom: 0px"/>
+<img src="Assets/Screen Shot 2020-09-19 at 11.13.43 PM.png"
+     alt="firstIf"
+     align="left"
+     style="width: 45%; padding-bottom: 0px"/>
 
 
 
