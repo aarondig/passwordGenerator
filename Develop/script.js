@@ -21,9 +21,9 @@ function writePassword() {
   
   }
         
-   upperlower();
+   main();
           
-   function upperlower(){
+   function main(){
     var characterTypes = [];
     if (uppercase === true){
       characterTypes.push("uppercase");

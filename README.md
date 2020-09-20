@@ -7,3 +7,40 @@
 
 ## Objective
 Using a prewritten HTML and CSS template, use Javascript to create a functional password generator that prompts user to input desired password length and character styles. (Uppercase, Lowercase, Numbers, and Special Characters)
+
+<br>
+
+## Technologies Used
+
+* Javascript
+* HTML
+* Unicode
+* Visual Studio Code
+
+<br>
+
+## How it works
+
+<br>
+
+### Prompts
+
+When user clicks the 'Generate' button, a series of prompts and confirm alerts ask the user about their specific preferences in the password that is generated.
+
+<img src="Assets/Screen Shot 2020-09-19 at 10.43.54 PM.png"
+     alt="PromptCode"
+     style="width: 45%; padding-bottom: 20px"/>
+<img src="Assets/Screen Shot 2020-09-19 at 10.38.47 PM.png"
+     alt="PromptExample"
+     style="width: 45%; padding-bottom: 20px"/>
+
+<br>
+
+If a prompt is confirmed, their **var** value becomes true and triggers **if statements** within the 'main' function.
+
+<br>
+
+<img src="Assets/Screen Shot 2020-09-19 at 10.21.00 PM.png"
+     alt="firstIf"
+     align="center"
+     style="width: 50%; padding-bottom: 20px"/>
